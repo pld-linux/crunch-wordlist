@@ -1,3 +1,7 @@
+# TODO
+# - merge/handle crnlib
+#   file /usr/bin/crunch from install of crnlib-1.04-2.x86_64 conflicts with file from package crunch-wordlist-3.6-0.2.x86_64
+#
 Summary:	Wordlist generator
 Name:		crunch-wordlist
 Version:	3.6
